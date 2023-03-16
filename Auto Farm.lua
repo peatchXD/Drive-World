@@ -109,7 +109,7 @@ while true do
             end
         end
     else 
-        game:GetService("Workspace").Gravity = 190
+        game:GetService("Workspace").Gravity = 100
         wait()
     end
     end)
